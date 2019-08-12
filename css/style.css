@@ -108,7 +108,7 @@ header{
 }
 .middle{
 	 position: relative;
-    height: 10px;
+    height: 50px;
     /* Анимация */
     -webkit-transition-property: height;
     -moz-transition-property: height;
