@@ -105,13 +105,18 @@ header{
 	background-image: url(../img/image_two.jpg);
 	width: 100%;
 	height: 500px;
-	box-shadow: 0 -20px 20px -5px rgba(0, 0, 0, 1) inset;
+}
+.middle{
+	position: relative;
+	background: #000;
+	width: 100%;
+	height: 200px;
+	box-shadow: 0 0 20px 10px rgba(0, 0, 0, 1) ;
 }
 .night{
-	margin-top: 200px;
 	background: white;
 	background-image: url(../img/8bc8ca5e5fed7d59a770ca218bd9dfe1.jpg);
 	width: 100%;
 	height: 700px;
-	box-shadow: 0 20px 20px -5px rgba(0, 0, 0, 1) inset;
+	box-shadow: 0 -20px 20px -5px rgba(0, 0, 0, 1) inset;
 }
