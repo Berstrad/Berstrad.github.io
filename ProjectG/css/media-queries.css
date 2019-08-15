@@ -2,5 +2,8 @@
 	.banner_img, .advantage_img{
 		display: none;
 	}
+	.block_3_nav_table_td_1 {
+	display: none;
+	}
 
 }
